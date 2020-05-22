@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Heed</string>
+
+
+    <string name="first_slide">Welcome to heed!</string>
+    <string name="second_slide">Get Precautions</string>
+    <string name="third_slide">Categorical Analysis</string>
+    <string name="fourth_slide">Still waiting?</string>
+
+    <string name="first_slide_desc">Your next mother!</string>
+    <string name="second_slide_desc">At your finger tips</string>
+    <string name="third_slide_desc">Find where you are!</string>
+    <string name="fourth_slide_desc">Let\'s get Started</string>
+
+
+    <string name="first_para">MOM - Too caring and too cautious</string>
+    <string name="second_para">Get advices from the leading experts</string>
+    <string name="third_para">Are you a student? worker? Teacher? Parent? Well,"HEED" is for you! </string>
+    <string name="fourth_para">Explore the categories,submit queries and get answered by the leading experts!</string>
+
+
+    <!--button-->
+    <string name="skip_btn">Skip</string>
+    <string name="next_btn">Next</string>
+    <string name="get_started">Get Started</string>
+
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+</resources>

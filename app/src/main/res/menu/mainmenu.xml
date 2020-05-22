@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/generalmenu"
+            android:icon="@drawable/ic_chevron_right_black_24dp"
+            android:title="General">
+
+        </item>
+        <item
+            android:id="@+id/FoodHabitsmenu"
+            android:icon="@drawable/ic_chevron_right_black_24dp"
+            android:title="FoodHabits">
+
+        </item>
+        <item
+            android:id="@+id/parentingmenu"
+            android:icon="@drawable/ic_chevron_right_black_24dp"
+            android:title="Parenting">
+
+        </item>
+        <item
+            android:id="@+id/Studentsmenu"
+            android:icon="@drawable/ic_chevron_right_black_24dp"
+            android:title="Students">
+
+        </item>
+        <item
+            android:id="@+id/teachersmenu"
+            android:icon="@drawable/ic_chevron_right_black_24dp"
+            android:title="Teachers">
+
+        </item>
+        <item
+            android:id="@+id/workersmenu"
+            android:icon="@drawable/ic_chevron_right_black_24dp"
+            android:title="Workers">
+
+        </item>
+        <item
+            android:id="@+id/savingmenu"
+            android:icon="@drawable/ic_chevron_right_black_24dp"
+            android:title="Savings">
+
+        </item>
+
+
+    </group>
+    <item android:title="Others">
+
+    <menu>
+    <group android:checkableBehavior="single">
+
+
+        <item
+            android:id="@+id/about"
+            android:icon="@drawable/info_menu"
+            android:title="About">
+        </item>
+
+        <item
+            android:id="@+id/exit"
+            android:icon="@drawable/backicon"
+            android:title="Exit">
+        </item>
+
+
+
+
+    </group>
+    </menu>
+
+    </item>
+</menu>
